@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Starting to learn giithub
+Starting to learn github
